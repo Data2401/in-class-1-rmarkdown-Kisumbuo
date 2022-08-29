@@ -1,5 +1,5 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
+title: 'RMarkdown:  In Class Assignment'
 author: "YOUR NAME HERE"
 date: "Data 2401"
 output: html_document
@@ -31,4 +31,24 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
- 
+
+# Wise Words
+
+> He who knows others is wise. He who knows himself is enlightened
+
+
+## my semester
+
+
+| _Math3401_ |CS1311|DATA2401|
+| ---- | ---- | ---- |
+| someone | someone | KAS |
+
+
+
+## I recommend
+
+```
+Christopher Hitchens
+
+```
